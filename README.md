@@ -160,7 +160,7 @@ El proyecto está orientado al aprendizaje y práctica de:
 # 📂 Estructura del Proyecto
 
 ```bash
-OlaPlayStudio/
+StreamingApp/
 │
 ├── app/                     # Aplicación principal Android
 ├── java/                    # Código fuente Java
@@ -179,7 +179,7 @@ OlaPlayStudio/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/OlaPlayStudio
+git clone https://github.com/isairey/StreamingApp
 ```
 
 ---
@@ -187,7 +187,7 @@ git clone https://github.com/isairey/OlaPlayStudio
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd OlaPlayStudio
+cd StreamingApp
 ```
 
 ---
